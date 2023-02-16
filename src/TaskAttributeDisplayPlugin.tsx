@@ -37,10 +37,7 @@ export default class TaskAttributeDisplayPlugin extends FlexPlugin {
 		flex.TaskCanvasHeader.Content.add(<TaskAttributeDisplay key="tad" />, {
 			sortOrder: 1,
 			align: "start",
-			if: (props) =>
-				props.task &&
-				props.task.attributes &&
-				props.task.attributes !== undefined,
+			if: (props) => props.task && props.task.attributes,
 		});
 	}
 }
