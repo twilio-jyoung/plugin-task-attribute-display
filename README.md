@@ -1,5 +1,7 @@
 # Your custom Twilio Flex Plugin
 
+![tad GIF](https://i.ibb.co/XYP7Ls8/taskattributesdisplay.gif)
+
 Twilio Flex Plugins allow you to customize the appearance and behavior of [Twilio Flex](https://www.twilio.com/flex). If you want to learn more about the capabilities and how to use the API, check out our [Flex documentation](https://www.twilio.com/docs/flex).
 
 ## Setup
