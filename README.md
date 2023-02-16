@@ -1,4 +1,6 @@
-# Your custom Twilio Flex Plugin
+# Task Attibutes Display Panel
+
+This plugin adds a few components to the Flex UI which allow you to quickly see the task attributes of the currently selected task.
 
 ![tad GIF](https://i.ibb.co/XYP7Ls8/taskattributesdisplay.gif)
 
